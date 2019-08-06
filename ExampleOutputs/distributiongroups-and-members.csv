@@ -1,0 +1,8 @@
+"GroupType","Group","GroupSMTP","PrimarySMTPDomain","Member","MemberSMTP","MemberType"
+"MailUniversalDistributionGroup","TestMoveUDG","TestMoveUDG@RamichOnline.com","RamichOnline.com","Jane Doe","JaneDoe@ramichonline.com","UserMailbox"
+"MailUniversalDistributionGroup","TestMoveUDG","TestMoveUDG@RamichOnline.com","RamichOnline.com","Exchange Admin","ExAdmin@geraldramich.com","MailForestContact"
+"MailUniversalDistributionGroup","TestMoveUDG","TestMoveUDG@RamichOnline.com","RamichOnline.com","Bob Mayor","MayorBob@ramichonline.com","UserMailbox"
+"MailUniversalDistributionGroup","TestMoveUDG","TestMoveUDG@RamichOnline.com","RamichOnline.com","Exadmin 2016","Exadmin2016@ramichonline.com","RemoteUserMailbox"
+"MailUniversalDistributionGroup","TestMoveUDG","TestMoveUDG@RamichOnline.com","RamichOnline.com","Exchange Admin. 2019","exadmin2019@ramichonline.com","UserMailbox"
+"MailUniversalSecurityGroup","TestMoveUSG","TestMoveUSG@RamichOnline.com","RamichOnline.com","O365Admin","O365Admin@ramichonline.com","RemoteUserMailbox"
+"MailUniversalSecurityGroup","TestMoveUSG","TestMoveUSG@RamichOnline.com","RamichOnline.com","TestMoveUDG","TestMoveUDG@RamichOnline.com","MailUniversalDistributionGroup"

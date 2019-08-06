@@ -1,0 +1,7 @@
+"RecipientTypeDetails","PrimarySmtpAddress","TYPE"
+"MailUniversalDistributionGroup","TestMoveUDG@RamichOnline.com","x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=db2ac7f525b24c39a3545242ed77b1ff-TestMoveUDG"
+"MailUniversalDistributionGroup","TestMoveUDG@RamichOnline.com","smtp:TestMoveUDG@RamichOnline.mail.onmicrosoft.com"
+"MailUniversalDistributionGroup","TestMoveUDG@RamichOnline.com","SMTP:TestMoveUDG@RamichOnline.com"
+"MailUniversalSecurityGroup","TestMoveUSG@RamichOnline.com","x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=f6f62b7398644e85bce88e6956f7fdae-TestMoveUSG"
+"MailUniversalSecurityGroup","TestMoveUSG@RamichOnline.com","smtp:TestMoveUSG@RamichOnline.mail.onmicrosoft.com"
+"MailUniversalSecurityGroup","TestMoveUSG@RamichOnline.com","SMTP:TestMoveUSG@RamichOnline.com"
